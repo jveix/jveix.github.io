@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology, [UNAM](https://www.zaragoza.unam.mx/), 2019
+* M.S. in Genetics,[CINVESTAV](https://genetica.cinvestav.mx/), 2021
+* Ph.D in Genetics, [CINVESTAV](https://genetica.cinvestav.mx/), 2025 (expected)
 
-Work experience
+Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -29,12 +29,24 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Science:
+  * Microbiota
+  * Metabolome
+  * miRNAs
+  * microarray
+    
+* Technical skills:
+  * Nucleic acid extraciton
+  * Metabolite extraction
+  * High-troughput sequencing
+  * FT-ICR Mass Spectrometry
+  * HPLC
+ 
+* Code skills:
+ * R
+ * python
+ * bash (GNU/Linux)
+ * html
 
 Publications
 ======
