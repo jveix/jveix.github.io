@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biology, [UNAM](https://www.zaragoza.unam.mx/), 2019
+* B.S. in Biology, [UNAM](https://www.zaragoza.unam.mx/), 2018
 * M.S. in Genetics,[CINVESTAV](https://genetica.cinvestav.mx/), 2021
 * Ph.D in Genetics, [CINVESTAV](https://genetica.cinvestav.mx/), 2025 (expected)
 
 Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2018: B.S. Thesis project
+  * Epidemiological and Health Surveillance Central Laboratory, ISSSTE
+  * Duties included: Bacterial streaking, clinical qPCR, antibiotic resistance bacteria detection
+  * Supervisor: QFB Juana Salazar Salinas
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -54,7 +50,7 @@ Main publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and Conferences
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
