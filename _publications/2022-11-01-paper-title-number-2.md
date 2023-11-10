@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Gut Microbiota Associated with Gestational Health Conditions in a Sample of Mexican Women"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 

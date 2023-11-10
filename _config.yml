@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Juan M. Vélez"
+  name             : "Juan M. Vélez-Ixta"
   avatar           : "profile.png"
   bio              : "I'm a young emerging researcher passionate for microbiota and data science"
   location         : "CDMX, Mexico"
@@ -176,13 +176,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
